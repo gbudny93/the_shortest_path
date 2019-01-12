@@ -1,0 +1,30 @@
+			Welcome to ROUTE FINDER instructions! 
+
+Here you will get know how to use this app!
+When application starts the main menu appears. In front of every option visible in menu is its
+number. To use the option please type its number and confirm it by click on enter button.
+If you choose the first option the list of avible cities will appear. Each city has its own number.
+Then you are obliged to insert number of your initial(zero) city and the number of city 
+that you are going to. Each operation is confirmed by enter button.
+Before you start finding the route you have to prepare a map(input file). Examplary file is
+shown below and it is necessary to create your own file with the name "map" and it has to be
+created in such a way:
+
+5 - number of cities
+4 - number of connections between cities
+City Name0
+City Name1
+City Name2
+City Name3
+City Name4
+01 - connection between city number 0 and 1
+45 - distance in km between city 0 and 1
+03 - connection between city number  and 3
+965 - distance in km between city 0 and 3
+31 - connection between city number 3 and 1
+28 - distance in km between city 3 and 1
+23 - connection between city number 2 and 3
+6985 - distance in km between city 2 and 3
+
+So, enjoy and if any problem occur please write me an email gregbudu@interia.pl
+
